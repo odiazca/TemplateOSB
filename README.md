@@ -29,7 +29,10 @@ https://www.facebook.com/live/create?ref=OBS
 
 * [Descargar Instalarar OSB ](https://obsproject.com/download)
 
-* Crea la estructura en windows C:\OBS\TemplateOSB [Ejemplo](https://github.com/odiazca/TemplateOSB/tree/master/Images/EstructuraDeCarpetas.png)
+* Crea la estructura en windows C:\OBS\TemplateOSB 
+
+<img src="/Images/EstructuraDeCarpetas.png" alt="Estructura en windows"
+	title="Estructura en window" width="150" height="100" />
 
 
 ### Plataformas destino para el streaming
