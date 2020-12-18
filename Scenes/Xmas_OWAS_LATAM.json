@@ -110,7 +110,7 @@
         "volume": 1.0
     },
     "current_program_scene": "Bienvenida",
-    "current_scene": "10 - Jorge Gajardo",
+    "current_scene": "Pausa- 3 min -",
     "current_transition": "Fade",
     "groups": [
         {
@@ -593,13 +593,85 @@
             "name": "08 - John Vargas"
         },
         {
-            "name": "09 - María Luisa Riquelme"
-        },
-        {
-            "name": "10 - Jorge Gajardo"
+            "name": "09 - Jorge Gajardo"
         }
     ],
     "sources": [
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "jaimepic",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/OBS/TemplateOSB/Speakers/jaime.jpeg"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "teran",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/OBS/TemplateOSB/Speakers/teran.jpeg"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "fajardo",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "C:/OBS/TemplateOSB/Speakers/fajardo.jpeg"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
         {
             "balance": 0.5,
             "deinterlace_field_order": 0,
@@ -901,12 +973,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -927,12 +1002,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -953,12 +1031,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1232,12 +1313,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1258,12 +1342,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1284,12 +1371,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1580,6 +1670,7 @@
                 "libobs.hide_scene_item.Jorge Gajardo": [],
                 "libobs.hide_scene_item.Shared": [],
                 "libobs.hide_scene_item.arbolito": [],
+                "libobs.hide_scene_item.fajardo": [],
                 "libobs.hide_scene_item.icon-linkedin": [],
                 "libobs.show_scene_item.Audio": [],
                 "libobs.show_scene_item.BaseLine": [],
@@ -1588,13 +1679,14 @@
                 "libobs.show_scene_item.Jorge Gajardo": [],
                 "libobs.show_scene_item.Shared": [],
                 "libobs.show_scene_item.arbolito": [],
+                "libobs.show_scene_item.fajardo": [],
                 "libobs.show_scene_item.icon-linkedin": []
             },
             "id": "scene",
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "10 - Jorge Gajardo",
+            "name": "09 - Jorge Gajardo",
             "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
@@ -1603,7 +1695,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 19,
+                "id_counter": 20,
                 "items": [
                     {
                         "align": 5,
@@ -1981,163 +2073,6 @@
                         },
                         "scale_filter": "disable",
                         "visible": true
-                    }
-                ]
-            },
-            "sync": 0,
-            "versioned_id": "scene",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [
-                    {
-                        "key": "OBS_KEY_9"
-                    }
-                ],
-                "libobs.hide_scene_item.Audio": [],
-                "libobs.hide_scene_item.BaseLine": [],
-                "libobs.hide_scene_item.MAria-t": [],
-                "libobs.hide_scene_item.MariaLi k": [],
-                "libobs.hide_scene_item.María Luisa Riquelme ": [],
-                "libobs.hide_scene_item.Shared": [],
-                "libobs.hide_scene_item.arbolito": [],
-                "libobs.hide_scene_item.icon-linkedin": [],
-                "libobs.show_scene_item.Audio": [],
-                "libobs.show_scene_item.BaseLine": [],
-                "libobs.show_scene_item.MAria-t": [],
-                "libobs.show_scene_item.MariaLi k": [],
-                "libobs.show_scene_item.María Luisa Riquelme ": [],
-                "libobs.show_scene_item.Shared": [],
-                "libobs.show_scene_item.arbolito": [],
-                "libobs.show_scene_item.icon-linkedin": []
-            },
-            "id": "scene",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "09 - María Luisa Riquelme",
-            "prev_ver": 436273152,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "custom_size": false,
-                "id_counter": 17,
-                "items": [
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 5,
-                        "locked": false,
-                        "name": "bg_Color",
-                        "pos": {},
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 4,
-                        "locked": false,
-                        "name": "BG_FRame",
-                        "pos": {},
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1920.0,
-                            "y": 43.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 9,
-                        "locked": false,
-                        "name": "Footer",
-                        "pos": {},
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 2,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 1,
-                        "locked": false,
-                        "name": "BaseLine",
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
                     },
                     {
                         "align": 5,
@@ -2152,250 +2087,18 @@
                         "crop_right": 0,
                         "crop_top": 0,
                         "group_item_backup": false,
-                        "id": 2,
+                        "id": 20,
                         "locked": false,
-                        "name": "Audio",
+                        "name": "fajardo",
                         "pos": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 60.0,
+                            "y": 265.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": false
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 14,
-                        "locked": false,
-                        "name": "icon-linkedin",
-                        "pos": {
-                            "x": 24.999961853027344,
-                            "y": 500.0006103515625
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.18666666746139526,
-                            "y": 0.18666675686836243
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 21,
-                        "locked": false,
-                        "name": "Browser",
-                        "pos": {
-                            "x": 616.046875,
-                            "y": 200.99998474121094
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.3507188558578491,
-                            "y": 1.3495031595230103
-                        },
-                        "scale_filter": "disable",
-                        "visible": false
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 1407.1539306640625,
-                            "y": 814.14373779296875
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 1,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": true,
-                        "id": 23,
-                        "locked": false,
-                        "name": "App",
-                        "pos": {
-                            "x": 451.0,
-                            "y": 218.56735229492188
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0291188955307007,
-                            "y": 1.0288459062576294
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 9,
-                        "locked": false,
-                        "name": "Shared",
-                        "pos": {
-                            "x": 451.0,
-                            "y": 200.99998474121094
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0291193723678589,
-                            "y": 1.0288461446762085
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 10,
-                        "locked": false,
-                        "name": "María Luisa Riquelme ",
-                        "pos": {
-                            "x": 19.0,
-                            "y": 408.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.18201564252376556,
-                            "y": 0.18181818723678589
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 11,
-                        "locked": false,
-                        "name": "MAria-t",
-                        "pos": {
-                            "x": 837.0,
-                            "y": 0.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.29329609870910645,
-                            "y": 0.29356059432029724
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 16,
-                        "locked": false,
-                        "name": "MariaLi k",
-                        "pos": {
-                            "x": 82.000022888183594,
-                            "y": 503.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.14972274005413055,
-                            "y": 0.15151515603065491
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 17,
-                        "locked": false,
-                        "name": "arbolito",
-                        "pos": {
-                            "x": 54.0,
-                            "y": 797.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
+                            "x": 0.56000000238418579,
+                            "y": 0.56000000238418579
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2812,13 +2515,15 @@
                 "libobs.hide_scene_item.Shared": [],
                 "libobs.hide_scene_item.arbolito": [],
                 "libobs.hide_scene_item.icon-linkedin": [],
+                "libobs.hide_scene_item.jaimepic": [],
                 "libobs.show_scene_item.Audio": [],
                 "libobs.show_scene_item.BaseLine": [],
                 "libobs.show_scene_item.Jaime Medina": [],
                 "libobs.show_scene_item.JaimeMitoT": [],
                 "libobs.show_scene_item.Shared": [],
                 "libobs.show_scene_item.arbolito": [],
-                "libobs.show_scene_item.icon-linkedin": []
+                "libobs.show_scene_item.icon-linkedin": [],
+                "libobs.show_scene_item.jaimepic": []
             },
             "id": "scene",
             "mixers": 0,
@@ -2833,7 +2538,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 16,
+                "id_counter": 17,
                 "items": [
                     {
                         "align": 5,
@@ -2851,12 +2556,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2877,12 +2585,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2903,12 +2614,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2988,8 +2702,8 @@
                         "locked": false,
                         "name": "icon-linkedin",
                         "pos": {
-                            "x": 37.0,
-                            "y": 586.0
+                            "x": 30.0,
+                            "y": 709.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -3104,8 +2818,8 @@
                         "locked": false,
                         "name": "Jaime Medina",
                         "pos": {
-                            "x": 30.0,
-                            "y": 471.0
+                            "x": 23.0,
+                            "y": 594.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -3173,6 +2887,35 @@
                         },
                         "scale_filter": "disable",
                         "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 17,
+                        "locked": false,
+                        "name": "jaimepic",
+                        "pos": {
+                            "x": 52.0,
+                            "y": 253.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.23877917230129242,
+                            "y": 0.23906250298023224
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
                     }
                 ]
             },
@@ -3200,6 +2943,7 @@
                 "libobs.hide_scene_item.arbolito": [],
                 "libobs.hide_scene_item.icon-linkedin": [],
                 "libobs.hide_scene_item.icon-twitter": [],
+                "libobs.hide_scene_item.teran": [],
                 "libobs.show_scene_item.Audio": [],
                 "libobs.show_scene_item.BaseLine": [],
                 "libobs.show_scene_item.Roberto Teran": [],
@@ -3207,7 +2951,8 @@
                 "libobs.show_scene_item.Shared": [],
                 "libobs.show_scene_item.arbolito": [],
                 "libobs.show_scene_item.icon-linkedin": [],
-                "libobs.show_scene_item.icon-twitter": []
+                "libobs.show_scene_item.icon-twitter": [],
+                "libobs.show_scene_item.teran": []
             },
             "id": "scene",
             "mixers": 0,
@@ -3222,7 +2967,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 20,
+                "id_counter": 21,
                 "items": [
                     {
                         "align": 5,
@@ -3240,12 +2985,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3266,12 +3014,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3292,12 +3043,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3377,8 +3131,8 @@
                         "locked": false,
                         "name": "icon-linkedin",
                         "pos": {
-                            "x": 194.0,
-                            "y": 616.45452880859375
+                            "x": 200.0,
+                            "y": 685.45452880859375
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -3406,8 +3160,8 @@
                         "locked": false,
                         "name": "icon-twitter",
                         "pos": {
-                            "x": 136.0,
-                            "y": 607.45452880859375
+                            "x": 142.0,
+                            "y": 676.45452880859375
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -3522,8 +3276,8 @@
                         "locked": false,
                         "name": "Roberto Teran",
                         "pos": {
-                            "x": 33.0,
-                            "y": 427.0
+                            "x": 37.0,
+                            "y": 505.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -3588,6 +3342,35 @@
                         "scale": {
                             "x": 0.22855751216411591,
                             "y": 0.2291666716337204
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 21,
+                        "locked": false,
+                        "name": "teran",
+                        "pos": {
+                            "x": 84.0,
+                            "y": 262.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.60750001668930054,
+                            "y": 0.60750001668930054
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3662,12 +3445,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3688,12 +3474,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3714,12 +3503,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4254,12 +4046,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4280,12 +4075,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4306,12 +4104,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4672,12 +4473,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4698,12 +4502,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4724,12 +4531,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4870,7 +4680,9 @@
                             "x": 451.0,
                             "y": 200.99998474121094
                         },
-                        "private_settings": {},
+                        "private_settings": {
+                            "collapsed": false
+                        },
                         "rot": 0.0,
                         "scale": {
                             "x": 1.0291193723678589,
@@ -5088,12 +4900,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5114,12 +4929,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5140,12 +4958,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5462,7 +5283,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "window": "OWASP Panama City Chapter Live Stream - YouTube - Google Chrome:Chrome_WidgetWin_1:chrome.exe"
+                "window": "Meet - jgn-urbt-ghq - Google Chrome:Chrome_WidgetWin_1:chrome.exe"
             },
             "sync": 0,
             "versioned_id": "window_capture",
@@ -5745,7 +5566,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 8,
+                "id_counter": 9,
                 "items": [
                     {
                         "align": 5,
@@ -5763,12 +5584,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5789,12 +5613,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5815,12 +5642,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -6506,84 +6336,6 @@
             "settings": {
                 "color": 4278211840,
                 "text": "Scaneando\n siguiente presentación...."
-            },
-            "sync": 0,
-            "versioned_id": "text_gdiplus_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "María Luisa Riquelme ",
-            "prev_ver": 436273152,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "color": 4278190250,
-                "text": "María Luisa Riquelme "
-            },
-            "sync": 0,
-            "versioned_id": "text_gdiplus_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "MAria-t",
-            "prev_ver": 436273152,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "color": 4278190250,
-                "text": "Sec en DevOps \ncon Intelligent Orchestration"
-            },
-            "sync": 0,
-            "versioned_id": "text_gdiplus_v2",
-            "volume": 1.0
-        },
-        {
-            "balance": 0.5,
-            "deinterlace_field_order": 0,
-            "deinterlace_mode": 0,
-            "enabled": true,
-            "flags": 0,
-            "hotkeys": {},
-            "id": "text_gdiplus",
-            "mixers": 0,
-            "monitoring_type": 0,
-            "muted": false,
-            "name": "MariaLi k",
-            "prev_ver": 436273152,
-            "private_settings": {},
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "settings": {
-                "color": 4278190250,
-                "text": "@marialuisariquelme"
             },
             "sync": 0,
             "versioned_id": "text_gdiplus_v2",
