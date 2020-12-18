@@ -1,0 +1,1 @@
+xcopy C:\OBS\TemplateOSB D:\odiazca\repo\ /E /H /C /I /S
