@@ -110,7 +110,7 @@
         "volume": 1.0
     },
     "current_program_scene": "Bienvenida",
-    "current_scene": "Pausa- 3 min",
+    "current_scene": "09 - Jorge Gajardo",
     "current_transition": "Fade",
     "groups": [
         {
@@ -572,13 +572,13 @@
             "name": "01 - Mauricio Campiglia"
         },
         {
-            "name": "02 - Pablo Barrera"
+            "name": "02 - Josue Rojas"
         },
         {
             "name": "03 - Giovanni Cruz Forero"
         },
         {
-            "name": "04 - Josue Rojas"
+            "name": "04 - Pablo Barrera"
         },
         {
             "name": "05 -  Roberto Teran"
@@ -1835,7 +1835,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "02 - Pablo Barrera",
+            "name": "04 - Pablo Barrera",
             "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
@@ -1862,12 +1862,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1888,12 +1891,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1914,12 +1920,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2251,12 +2260,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2277,12 +2289,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2303,12 +2318,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2644,7 +2662,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "04 - Josue Rojas",
+            "name": "02 - Josue Rojas",
             "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
@@ -2671,12 +2689,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2697,12 +2718,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2723,12 +2747,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3093,12 +3120,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3119,12 +3149,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3145,12 +3178,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3687,12 +3723,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3713,12 +3752,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -3739,12 +3781,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4941,12 +4986,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4967,12 +5015,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -4993,12 +5044,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5773,12 +5827,15 @@
                         "id": 5,
                         "locked": false,
                         "name": "bg_Color",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5799,12 +5856,15 @@
                         "id": 4,
                         "locked": false,
                         "name": "BG_FRame",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -5825,12 +5885,15 @@
                         "id": 9,
                         "locked": false,
                         "name": "Footer",
-                        "pos": {},
+                        "pos": {
+                            "x": 0.0,
+                            "y": 1024.0
+                        },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
